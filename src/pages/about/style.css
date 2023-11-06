@@ -17,6 +17,12 @@
     margin: 15px 0 20px;
     font-family: 'Raleway';
 }
+.progress-title-2 {
+    font-size: 40px ;
+    font-weight: 700;
+    margin: 15px 0 20px;
+    font-family: 'Raleway';
+}
 
 .progress {
     height: 5px;
