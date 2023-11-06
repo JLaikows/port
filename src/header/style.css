@@ -2,6 +2,7 @@
     top: 10px;
     padding-left: 10px;
     padding-right: 10px;
+    border-bottom: 1px solid var(--text-color);
 }
 
 .menu__button {
@@ -98,6 +99,7 @@
 
 .menu__opend {
     visibility: visible !important;
+    border-bottom: 1px solid var(--text-color);
 }
 
 .main__menu_ul,

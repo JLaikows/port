@@ -84,7 +84,7 @@ export const About = () => {
           <Col lg="7">
             {services.map((data, i) => {
               return (
-                <div className="service_ py-4" key={i}>
+                <div className="service_ py-2" key={i}>
                   <h5 className="service__title">{data.title}</h5>
                   <p className="service_desc">{data.description}</p>
                 </div>
