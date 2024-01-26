@@ -1,15 +1,15 @@
-import React from "react"
+import React from "react";
 import {
-    FaGithub,
-    FaTwitter,
-    FaFacebookF,
-    FaLinkedin,
-    FaYoutube,
-    FaTwitch,
-    FaInstagram,
-    FaReact,
-    FaEmber,
-  } from "react-icons/fa";
+  FaGithub,
+  FaTwitter,
+  FaFacebookF,
+  FaLinkedin,
+  FaYoutube,
+  FaTwitch,
+  FaInstagram,
+  FaReact,
+  FaEmber,
+} from "react-icons/fa";
 
 const logotext = "JOSHUA LAIKOWSKI";
 const meta = {
@@ -27,7 +27,7 @@ const introdata = {
   },
   description: "Full Stack engineer from Brooklyn, New York ",
   your_img_url:
-    "https://media.licdn.com/dms/image/C5603AQEWjaDa3r-mng/profile-displayphoto-shrink_800_800/0/1655820574927?e=1704931200&v=beta&t=kVVNz1gdDnJ60-dp-v2p9DhTEg1aiuZBOYxkNV1okKI",
+    "https://media.licdn.com/dms/image/D4E03AQFBczle5C15dQ/profile-displayphoto-shrink_800_800/0/1706087493309?e=1711584000&v=beta&t=4xrQi3xcv0jEj1_qgq1iZotaFF_54dgUsnHFOizVp3I",
 };
 
 const dataabout = {
@@ -71,30 +71,25 @@ const skills = [
 ];
 
 const services = [
-    {
-      title: "Frameworks",
-      description:
-        "React, Redux, Next.js, Express.js, rails, Ember",
-    },
-    {
-        title: "Test Suites",
-        description:
-        "Jest, Selenium, Mocha",
-    },
-    {
-      title: "Pipeline management",
-      description:
-        "Buildkite",
-    },
-    {
-      title: "Deployment",
-      description:
-        "Spinaker, Heroku, AWS"
-    },
-    {
+  {
+    title: "Frameworks",
+    description: "React, Redux, Next.js, Express.js, rails, Ember",
+  },
+  {
+    title: "Test Suites",
+    description: "Jest, Selenium, Mocha",
+  },
+  {
+    title: "Pipeline management",
+    description: "Buildkite",
+  },
+  {
+    title: "Deployment",
+    description: "Spinaker, Heroku, AWS",
+  },
+  {
     title: "Databases + DBTools",
-    description:
-      " Mongoose, MongoDB, SQL, SQLite3, PostgreSQL, Datagrip",
+    description: " Mongoose, MongoDB, SQL, SQLite3, PostgreSQL, Datagrip",
   },
 ];
 
@@ -105,15 +100,15 @@ const dataportfolio = [
     link: "https://www.better.com",
   },
   {
-      img: "https://user-images.githubusercontent.com/63963324/150466955-c92744a9-ee2a-4f79-93ca-5066bd141ad3.png",
-      description: "Landmarked - track your trips with photos and more!",
-      link: "https://github.com/ShuaLaik/Landmarked",
-    },
-    {
-      img: "https://media.licdn.com/dms/image/sync/C4D27AQG8f5zDelyiyQ/articleshare-shrink_800/0/1698980106682?e=1699837200&v=beta&t=IH6hNodcKOWKiULFa7uQTAwcfF53tBhGBona-lnjcoA",
-      description: "FacePalm - a facebook clone",
-      link: "https://github.com/ShuaLaik/FacePalm",
-    },
+    img: "https://user-images.githubusercontent.com/63963324/150466955-c92744a9-ee2a-4f79-93ca-5066bd141ad3.png",
+    description: "Landmarked - track your trips with photos and more!",
+    link: "https://github.com/ShuaLaik/Landmarked",
+  },
+  {
+    img: "https://media.licdn.com/dms/image/sync/C4D27AQG8f5zDelyiyQ/articleshare-shrink_800/0/1698980106682?e=1699837200&v=beta&t=IH6hNodcKOWKiULFa7uQTAwcfF53tBhGBona-lnjcoA",
+    description: "FacePalm - a facebook clone",
+    link: "https://github.com/ShuaLaik/FacePalm",
+  },
 ];
 
 const contactConfig = {
