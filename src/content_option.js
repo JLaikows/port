@@ -1,16 +1,3 @@
-import React from "react";
-import {
-  FaGithub,
-  FaTwitter,
-  FaFacebookF,
-  FaLinkedin,
-  FaYoutube,
-  FaTwitch,
-  FaInstagram,
-  FaReact,
-  FaEmber,
-} from "react-icons/fa";
-
 const logotext = "JOSHUA LAIKOWSKI";
 const meta = {
   title: "Joshua Laikowski",
@@ -25,7 +12,7 @@ const introdata = {
     second: "love coding",
     third: "love exploring new tech",
   },
-  description: "Full Stack engineer from Brooklyn, New York ",
+  description: "Full Stack engineer living in NYC",
   your_img_url:
     "https://media.licdn.com/dms/image/D4E03AQFBczle5C15dQ/profile-displayphoto-shrink_800_800/0/1706087493309?e=1711584000&v=beta&t=4xrQi3xcv0jEj1_qgq1iZotaFF_54dgUsnHFOizVp3I",
 };
@@ -96,7 +83,7 @@ const services = [
 const dataportfolio = [
   {
     img: "https://i.postimg.cc/mrYvX0zZ/Screenshot-2023-11-05-194632.png",
-    description: "Better Mortgage - Full Stack Development",
+    description: "Better Mortgage - Full Stack Development. ",
     link: "https://www.better.com",
   },
   {
@@ -105,9 +92,14 @@ const dataportfolio = [
     link: "https://github.com/ShuaLaik/Landmarked",
   },
   {
-    img: "https://media.licdn.com/dms/image/sync/C4D27AQG8f5zDelyiyQ/articleshare-shrink_800/0/1698980106682?e=1699837200&v=beta&t=IH6hNodcKOWKiULFa7uQTAwcfF53tBhGBona-lnjcoA",
+    img: "https://media.licdn.com/dms/image/sync/C4D27AQG8f5zDelyiyQ/articleshare-shrink_800/0/1705938913591?e=1706904000&v=beta&t=J-7wSMFndowq2ENAeifd1Vb_n9EYLA92Oz5PrrfJ4Og",
     description: "FacePalm - a facebook clone",
     link: "https://github.com/ShuaLaik/FacePalm",
+  },
+  {
+    img: "https://media.licdn.com/dms/image/D4E2DAQEU3WA_obvhuA/profile-treasury-image-shrink_800_800/0/1706298844252?e=1706904000&v=beta&t=cuUWBDfn6Ld9sSUMCqvO6Re2xqx0A02aAOUSE38I-AI",
+    description: "SashaSay - a modeling portfolio",
+    link: "https://www.sashasay.com",
   },
 ];
 
