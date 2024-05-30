@@ -1,7 +1,7 @@
 {
     "name": "react-portfolio",
     "version": "0.1.0",
-    "homepage": "https://jlaikows.github.io/",
+    "homepage": "https://jlaikows.github.io/port",
     "private": true,
     "dependencies": {
         "bootstrap": "^5.2.3",
