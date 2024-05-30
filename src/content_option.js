@@ -8,9 +8,9 @@ const meta = {
 const introdata = {
   title: "I’m Joshua Laikowski",
   animated: {
-    first: "am a full stack dev",
-    second: "love coding",
-    third: "love exploring new tech",
+    first: "Software Engineer",
+    second: "Full Stack Developer",
+    third: "Project Leader",
   },
   description: "Full Stack engineer living in NYC",
   your_img_url:
