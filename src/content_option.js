@@ -30,6 +30,16 @@ const worktimeline = [
     where: "Better Mortgage",
     date: "2022 - 2023",
   },
+  {
+    jobtitle: "Lead Developer",
+    where: "Sasha Semeniuk",
+    date: "2023 - 2024",
+  },
+  {
+    jobtitle: "Software Engineer",
+    where: "NYC RHPS",
+    date: "2024",
+  },
 ];
 
 const skills = [
