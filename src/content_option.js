@@ -2,7 +2,7 @@ const logotext = "JOSHUA LAIKOWSKI";
 const meta = {
   title: "Joshua Laikowski",
   description:
-    "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    "Specialist in designing, building, and shipping the highest quality websites for a fraction of the cost",
 };
 
 const introdata = {
