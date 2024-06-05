@@ -10,7 +10,6 @@ import {
   services,
 } from "../../content_option";
 
-
 export const About = () => {
   return (
     <HelmetProvider>
@@ -19,6 +18,7 @@ export const About = () => {
           <meta charSet="utf-8" />
           <title> About | {meta.title}</title>
           <meta name="description" content={meta.description} />
+          <meta name="image" content={meta.image} />
         </Helmet>
         <Row className="mb-5 mt-3 pt-md-3">
           <Col lg="8">

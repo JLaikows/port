@@ -3,6 +3,8 @@ const meta = {
   title: "Joshua Laikowski",
   description:
     "Specialist in designing, building, and shipping the highest quality websites for a fraction of the cost",
+  image:
+    " https://as2.ftcdn.net/v2/jpg/02/25/08/49/1000_F_225084966_hhswkk9GgkAKcr2p1n69aaiI1jETbZO9.jpg",
 };
 
 const introdata = {
