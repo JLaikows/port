@@ -20,7 +20,7 @@ const introdata = {
 const dataabout = {
   title: "A bit about myself",
   aboutme:
-    "I'm a software enigneer originally from Sayreville, New Jersey. From a young age I found my self fasinated by how technology worked, eventually leading me to video games and more. As I got older, and my muse diverged to music, I still found myself trying to build little applications to make my music reoording experience easier. Then, during the beggining of the pandemic, I went to App Academy to learn full stack engineering, and the rest is history",
+    "Hi, I’m Josh, a software engineer from the New York / New Jersey area. I’m fluent in Typescript, Javascript, React, Redux, Express, Nodejs, Golang, and more! I graduated from App Academy, an immersive coding bootcamp with over 1000+ hours dedicated to exploring and experimenting with the previous technologies. From there I went on to work for Better Mortgage, an innovative mortgage platform designed to streamline and expedite the mortgage application process for a more efficient and customer-centric experience.",
 };
 const worktimeline = [
   {
